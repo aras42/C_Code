@@ -1,5 +1,5 @@
 /*
-  Scrivere un programma che chieda di inserire 2 date nel formato gg/mm/aaaa e stampi la più secente
+  Scrivere un programma che chiede di inserire 2 date nel formato gg/mm/aaaa e stampi la più recente
 */
 
 #include <stdio.h>
