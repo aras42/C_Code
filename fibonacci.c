@@ -31,7 +31,7 @@ int main(){
 
 	}else {
 
-		printf("%d\n\%d\n",precedente1,precedente2);
+		printf("%d\n %d\n",precedente1,precedente2);
 
 		for(i=0;i<N-2;i++) {
 
